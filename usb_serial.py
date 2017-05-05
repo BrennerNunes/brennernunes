@@ -7,7 +7,7 @@ from threading import Thread
 import matplotlib.pyplot as plt
 from array import array
 from drawnow import drawnow
-
+import os
 
 class Main():
     def __init__(self, usb, valor):
