@@ -3,7 +3,7 @@
 import random
 import os
 
-random.seed()
+random.seed(100)
 
 print("\nResultado: ", random.uniform(0,1))
 print("\nResultado: ", random.uniform(0,1))
